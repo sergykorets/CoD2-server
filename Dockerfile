@@ -28,7 +28,7 @@ RUN apt-get install -y --no-install-recommends libstdc++5:i386=1:3.3.6-30
 RUN apt-get install -y --no-install-recommends g++-multilib=4:8.3.0-1
 # Install mysql & sqlite 32bit libs required if using libcod mysql options
 RUN apt-get install -y --no-install-recommends default-libmysqlclient-dev:i386=1.0.5
-RUN apt-get install -y --no-install-recommends libsqlite3-dev:i386=3.27.2-3+deb10u1
+RUN apt-get install -y --no-install-recommends libsqlite3-dev:i386 --fix-missing
 
 # Download and build libcod2 from "Voron00"
 RUN git clone ${LIBCOD_GIT_URL} "${TMPDIR}/libcod2"
