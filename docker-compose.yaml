@@ -26,8 +26,6 @@ services:
         "sv_punkbuster",
         "0",
         "+exec",
-        "punkbuster.cfg",
-        "+exec",
         "server_mp.cfg"
       ]
     # Allow server shell interaction
