@@ -1,7 +1,93 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="4d3644d9-8b5f-4ce0-b329-a8c443521fc7" name="Default Changelist" comment="" />
+    <list default="true" id="4d3644d9-8b5f-4ce0-b329-a8c443521fc7" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/Dockerfile" beforeDir="false" afterPath="$PROJECT_DIR$/Dockerfile" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/cod2_lnxded_" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cod2server/main/BotProfile.db" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cod2server/main/games_mp.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cod2server/main/hunkusage.dat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cod2server/main/localizedstrings/exe.str.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cod2server/main/localizedstrings/key.str.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cod2server/main/localizedstrings/menu.str.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cod2server/main/players/Default/config.cfg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cod2server/main/players/Default/config_mp.cfg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cod2server/main/players/active.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cod2server/main/sound/ambient/amb_Russia01b.mp3" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cod2server/main/sound/ambient/amb_Russia02_ext.mp3" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cod2server/main/sound/ambient/amb_Russia03_ext.mp3" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cod2server/main/sound/ambient/amb_Russia03_pipe.mp3" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cod2server/main/sound/ambient/amb_Russia04_ext.mp3" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cod2server/main/sound/ambient/amb_Russia04_int.mp3" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cod2server/main/sound/ambient/amb_Russia05_ext.mp3" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cod2server/main/sound/ambient/amb_africa01b.mp3" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cod2server/main/sound/ambient/amb_africa03b2_ext.mp3" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cod2server/main/sound/ambient/amb_africa04_ext.mp3" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cod2server/main/sound/ambient/amb_africa_tankbattle.mp3" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cod2server/main/sound/ambient/amb_duhocbattle_Bunker_1.mp3" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cod2server/main/sound/ambient/amb_duhocboat_4d.mp3" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cod2server/main/sound/ambient/amb_duhoccliffs_2.mp3" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cod2server/main/sound/ambient/amb_france01b.mp3" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cod2server/main/sound/ambient/amb_france02_int.mp3" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cod2server/main/sound/ambient/amb_france03_ext.mp3" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cod2server/main/sound/ambient/amb_france03_int.mp3" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cod2server/main/sound/ambient/amb_france03m_ext.mp3" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cod2server/main/sound/ambient/amb_france04_ext.mp3" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cod2server/main/sound/ambient/amb_hill400_armored.mp3" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cod2server/main/sound/ambient/amb_hill400_charge.mp3" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cod2server/main/sound/ambient/amb_hill400_infnaslt.mp3" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cod2server/main/sound/ambient/amb_newvillers_NoRain.mp3" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cod2server/main/sound/ambient/amb_newvillers_NoRain2.mp3" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cod2server/main/sound/ambient/amb_newvillers_RainHvy.mp3" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cod2server/main/sound/ambient/amb_newvillers_RainHvy_int.mp3" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cod2server/main/sound/ambient/amb_newvillers_RainLite.mp3" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cod2server/main/sound/ambient/silentsong.mp3" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cod2server/main/sound/music/88ridge_approaching_ridge2_GRFINAL.mp3" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cod2server/main/sound/music/88ridge_crusader_victory_GRFINAL.mp3" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cod2server/main/sound/music/Eldaba_gr_e3ending_2.mp3" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cod2server/main/sound/music/Tankhunt_russian_victory_GRFINAL.mp3" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cod2server/main/sound/music/beltot_tough_road_ahead_GRFINAL.mp3" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cod2server/main/sound/music/british_action_artillery_GRFINAL.mp3" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cod2server/main/sound/music/british_decoytown_intro_short_GRFINAL.mp3" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cod2server/main/sound/music/british_decoytrenches_dump2_GRFINAL.mp3" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cod2server/main/sound/music/decoytown_victory_v2_GRFINAL.mp3" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cod2server/main/sound/music/decoytrenches_intro_GRFINAL.mp3" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cod2server/main/sound/music/decoytrenches_outro_GRFINAL.mp3" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cod2server/main/sound/music/demolition_setting_charges3e_GRFINAL.mp3" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cod2server/main/sound/music/demolition_soviet_charge_GRFINAL.mp3" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cod2server/main/sound/music/demolition_soviet_holdline2_GRFINAL.mp3" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cod2server/main/sound/music/demolition_tension1_v3_GRFINAL.mp3" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cod2server/main/sound/music/demolition_tension2_v3_GRFINAL.mp3" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cod2server/main/sound/music/demolition_tension3_v3_GRFINAL.mp3" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cod2server/main/sound/music/demolition_victory_serious_GRFINAL.mp3" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cod2server/main/sound/music/downtownassault2_GRFINAL.mp3" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cod2server/main/sound/music/downtownsniper_soviet_tension_GRFINAL.mp3" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cod2server/main/sound/music/downtownsniper_victory_GRFINAL.mp3" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cod2server/main/sound/music/duhoc_assault_reagan2_GRFINAL.mp3" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cod2server/main/sound/music/duhocassault2_GRFINAL.mp3" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cod2server/main/sound/music/duhocassault_discovery2_GRFINAL.mp3" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cod2server/main/sound/music/duhocassault_victory_numb3_GRFINAL.mp3" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cod2server/main/sound/music/duhocassault_victory_relief2b_GRFINAL.mp3" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cod2server/main/sound/music/eldaba_ridein2_GRFINAL.mp3" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cod2server/main/sound/music/eldaba_victory_GRFINAL.mp3" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cod2server/main/sound/music/hill400_bad_times_GRFINAL.mp3" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cod2server/main/sound/music/hill400_mustangs_GRFINAL.mp3" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cod2server/main/sound/music/libya_charge_crusader_long_GRFINAL.mp3" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cod2server/main/sound/music/libya_desert_sea_long_GRFINAL.mp3" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cod2server/main/sound/music/libya_moving_in_GRFINAL.mp3" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cod2server/main/sound/music/menu_GRTEMP.mp3" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cod2server/main/sound/music/rhine_victory_exhausted_GRFINAL.mp3" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cod2server/main/sound/music/rhine_victory_last_words_GRFINAL.mp3" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cod2server/main/sound/music/silotown_assault2_GRFINAL.mp3" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cod2server/main/sound/music/silotown_assault_somber_GRFINAL.mp3" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cod2server/main/sound/music/toujane_armoredcar_crash_GRFINAL.mp3" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cod2server/main/sound/music/toujane_vehicle_danger_loop_GRFINAL.mp3" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cod2server/main/sound/music/toujane_vehicle_ride_GRFINAL.mp3" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cod2server/main/sound/music/trainyard_soviet_tension_GRFINAL.mp3" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cod2server/main/ui/options_graphics.menu.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cod2server/main/ui/options_sound.menu.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cod2server/main/video/aspyr_intro.RoQ" beforeDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -13,8 +99,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/Dockerfile">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="450">
-              <caret line="30" column="80" selection-start-line="30" selection-start-column="80" selection-end-line="30" selection-end-column="80" />
+            <state relative-caret-position="285">
+              <caret line="19" column="32" lean-forward="true" selection-start-line="19" selection-start-column="32" selection-end-line="19" selection-end-column="32" />
             </state>
           </provider>
         </entry>
@@ -59,6 +145,11 @@
               <item name="CoD2-server" type="b2602c69:ProjectViewProjectNode" />
               <item name="CoD2-server" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="CoD2-server" type="b2602c69:ProjectViewProjectNode" />
+              <item name="CoD2-server" type="462c0819:PsiDirectoryNode" />
+              <item name="bin" type="462c0819:PsiDirectoryNode" />
+            </path>
           </expand>
           <select />
         </subPane>
@@ -96,12 +187,12 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1735041428928</updated>
-      <workItem from="1735041435183" duration="207000" />
+      <workItem from="1735041435183" duration="449000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="207000" />
+    <option name="totallyTimeSpent" value="449000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="1440" height="877" extended-state="0" />
@@ -134,8 +225,8 @@
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/Dockerfile">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="450">
-          <caret line="30" column="80" selection-start-line="30" selection-start-column="80" selection-end-line="30" selection-end-column="80" />
+        <state relative-caret-position="285">
+          <caret line="19" column="32" lean-forward="true" selection-start-line="19" selection-start-column="32" selection-end-line="19" selection-end-column="32" />
         </state>
       </provider>
     </entry>
